@@ -1,4 +1,4 @@
-## Oiii eu sou o Dan!
+## Oi, eu sou o Dan!
 
 <div align="center">
   <a href="https://github.com/Nulo0">
