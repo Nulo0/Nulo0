@@ -4,7 +4,17 @@
   <a href="https://github.com/Nulo0">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Nulo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nulo0&layout=compact&langs_count=7&theme=dark"/>
+    
 </div>
+  
+<div align="center"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"/>
+</div>
+  
+  ##
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-pedro-837b80218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
