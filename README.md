@@ -1,4 +1,6 @@
-## Oi, eu sou o Dan!
+<div align="center">
+  <h1> Oi! eu sou o Dan! </h1>
+</div>
 
 <div width="100%">
   <img src="https://i.imgur.com/yiVbHev.gif"  width="100%">
