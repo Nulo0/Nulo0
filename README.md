@@ -2,12 +2,12 @@
   <h1> Oi! eu sou o Dan! </h1>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Nulo0">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Nulo0&show_icons=true&theme=tokyonight"/>
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nulo0&layout=compact&theme=tokyonight"/>
     
-</div>
+</div> -->
   
   
 <div align="center"> 
